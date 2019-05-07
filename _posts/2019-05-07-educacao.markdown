@@ -1,0 +1,19 @@
+---
+layout: post
+title: Gráficos de gastos em educação no brasil.
+category: posts
+---
+
+Alguns gráficos que fiz em python sobre a educação no Brasil.
+
+---
+[Gasto totais na educação]: EducacaoTotal.html
+[Educação Básica]: EducacaoBasica.html
+[Educação Profissional]: EducacaoSuperior.html
+[Educação Superior]: EducacaoProfissional.html
+
+---
+
+Obrigado pela visita
+
+

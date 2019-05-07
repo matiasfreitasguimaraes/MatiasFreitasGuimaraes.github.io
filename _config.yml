@@ -1,0 +1,9 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Matias Freitas Guimarães
+url: MatiasFreitasGuimaraes.github.io
+description: Se divertindo com dados e codigos
