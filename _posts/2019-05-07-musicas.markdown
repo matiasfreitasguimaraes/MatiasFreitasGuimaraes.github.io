@@ -1,0 +1,18 @@
+---
+layout: post
+title: Gráficos de gastos sobre léxico em musicas.
+category: posts
+---
+
+Gráfico que fiz em python sobre léxico em musicas
+
+---
+
+[Ed Sheeran, Miley Cyrus, The Beatles, Michael Jackson frequencie words](https://matiasfreitasguimaraes.github.io/EdMileyMichaelBeatles)
+
+
+---
+
+Obrigado pela visita
+
+
