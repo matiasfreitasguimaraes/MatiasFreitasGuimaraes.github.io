@@ -7,10 +7,11 @@ category: posts
 Alguns gráficos que fiz em python sobre a educação no Brasil.
 
 ---
-[Gasto totais na educação]: EducacaoTotal.html
-[Educação Básica]: EducacaoBasica.html
-[Educação Profissional]: EducacaoSuperior.html
-[Educação Superior]: EducacaoProfissional.html
+
+[Gasto totais na educação](EducacaoTotal)
+[Educação Básica](EducacaoBasica)
+[Educação Profissional](EducacaoSuperior)
+[Educação Superior](EducacaoProfissional)
 
 ---
 
