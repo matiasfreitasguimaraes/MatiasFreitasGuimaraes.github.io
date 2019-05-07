@@ -8,10 +8,13 @@ Alguns gráficos que fiz em python sobre a educação no Brasil.
 
 ---
 
-[Gasto totais na educação](EducacaoTotal)
-[Educação Básica](EducacaoBasica)
-[Educação Profissional](EducacaoSuperior)
-[Educação Superior](EducacaoProfissional)
+[Gasto totais na educação](https://matiasfreitasguimaraes.github.io/EducacaoTotal)
+
+[Educação Básica](https://matiasfreitasguimaraes.github.io/EducacaoBasica)
+
+[Educação Profissional](https://matiasfreitasguimaraes.github.io/EducacaoSuperior)
+
+[Educação Superior](https://matiasfreitasguimaraes.github.io/EducacaoProfissional)
 
 ---
 
